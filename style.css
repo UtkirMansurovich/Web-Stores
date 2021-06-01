@@ -1,0 +1,433 @@
+#one{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #0F2336;
+}
+#two{
+    background: #0F2336;
+    border: 1px solid #0F2336;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 8px 26px;
+    
+}
+header{
+    background: #F5F6F7;
+    border-radius: 0px;
+    height: 710px;
+}
+#order{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 76px;
+    letter-spacing: 1.11px;
+    color: #00CCCC;
+    margin-top: 10%;
+}
+#earn{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 76px;
+    letter-spacing: 1.11px;
+    color: #0F2336;
+}
+#nuqta{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 55px;
+    line-height: 76px;
+    letter-spacing: 1.11px;
+    color: #F3AF47;
+}
+#disover{
+    background: #00CCCC;
+    border: 1px solid #00CCCC;
+    box-sizing: border-box;
+    box-shadow: 0px 3px 18px rgba(0, 201, 201, 0.55);
+    border-radius: 14px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #0F2336;
+    padding: 19px 21px;
+    margin: 10% 0px;
+}
+#boyAndGirl{
+    position: absolute;
+    width: 580px;
+    height: 537px;
+    right: 20%;
+    top: 247px;
+}
+#daraxt{
+    position: absolute;
+    width: 1000px;
+    right: 8%;
+}
+@media(max-width:1600px){
+    #boyAndGirl{
+        display:none;
+    }
+    #daraxt{
+        display:none;
+    }
+}
+#orderOne{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 32px;
+    letter-spacing: 0.2px;
+    color: #0F2336;
+}
+@media(max-width:700px){
+    #dumaloq{
+        width: max-content;
+        margin: auto;
+    }
+}
+#feel{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #576D81;
+}
+#bir{
+    background: #F4F5F6;
+    border-radius: 50px;
+    margin-top: 150px;
+    max-height: 500px;
+    padding:  4rem 2rem;
+}
+#photo{
+    transform: translateY(-130px);
+}
+@media(max-width:1700px){
+    #photo{
+        display: none;
+    }
+   
+}
+#daily{
+    
+}
+#your{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    color: #576D81;
+    margin-bottom: 30px;
+}
+#how{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 55px;
+    color: #0F2336;
+}
+#start{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #576D81;
+    margin: 30px 0px 30px 0px;
+    max-width: 80%;
+}
+#chiziq{
+    border: 10px dotted grey;
+    background-color: transparent;
+    width: 10px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    display: inline-block;
+}
+#chiziqBir{
+    border: 10px solid #00CCCC;
+    width: 80px;
+    border-left: 0px;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#chiziqIkki{
+    border: 10px dotted grey;
+    background-color: transparent;
+    width: 30px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    display: inline-block;
+}
+#sectionThree{
+    background: #F4F5F6;
+    margin-top: 200px;
+    max-height: 600px;
+}
+#loyalty{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 25px;
+    letter-spacing: 0.2px;
+    color: #0F2336;
+}
+#collect{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #576D81;
+    margin-top: 20px;
+}
+#foiz{
+    background: #FFFFFF;
+    box-shadow: 0px 8px 32px rgba(15, 35, 54, 0.06);
+    border-radius: 8px;
+    width: 500px;
+    height: 200px;
+}
+#foizUrta{
+    background: #FFFFFF;
+    box-shadow: 0px 8px 32px rgba(15, 35, 54, 0.06);
+    border-radius: 8px;
+    margin: 30px 50px;
+    width: 500px;
+    height: 200px;
+}
+#woman{
+    position: relative;
+    bottom: 85px;
+    width: 650px;
+}
+#uchtalik{
+    position: relative;
+    bottom: 30px;
+}
+@media(max-width:1600px){
+    #woman{
+        display: none;
+    }
+   
+}
+@media(max-width:700px){
+    #foizUrta{
+        background: #FFFFFF;
+        box-shadow: 0px 8px 32px rgba(15, 35, 54, 0.06);
+        border-radius: 8px;
+        width: 400px;
+        height: 200px;
+        margin: 30px 0px;
+    }
+    #foiz{
+        background: #FFFFFF;
+        box-shadow: 0px 8px 32px rgba(15, 35, 54, 0.06);
+        border-radius: 8px;
+        width: 400px;
+        height: 200px;
+    }
+    #uchtalik{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+}
+@media(max-width: 400px){
+    #bir{
+        background: #F4F5F6;
+        border-radius: 50px;
+        margin-top: 150px;
+        max-height: 500px;
+        padding:  2rem 2rem;
+    }
+    
+}
+#ikki{
+    background: #F4F5F6;
+    border-radius: 50px;
+    margin-top: 150px;
+    max-height: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+#please{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    color: #576D81;
+    margin-bottom: 30px;
+}
+#send{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 55px;
+    color: #0F2336;
+}
+#gift{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #576D81;
+    margin: 30px 0px 30px 0px;
+    max-width: 80%;
+}
+#uch{
+    padding-left: 50px;
+}
+#olcha{
+   transform: translateY(-1px);
+}
+#phone{
+    position: absolute;
+    top: 2750px;
+    right: 26.5%;
+}
+#sharbat{
+    position: absolute;
+    top: 2900px;
+    right: 20%;
+}
+@media(max-width:1700px){
+    #olcha{
+        display: none;
+    }
+    #sharbat{
+        display: none;
+    }
+}
+@media(max-width:1210px){
+    #phone{
+        display: none;
+    }
+}
+#uy{
+    margin-bottom: 20px;
+}
+#enjoy{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    color: #0F2336;
+    
+}
+#enter{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    padding: 12px 1%;
+    color: rgba(0, 0, 0, 0.35);
+    background: #F0F0F2;
+    border: 1px solid #F0F0F2;
+    box-sizing: border-box;
+    border-radius: 6px;
+    min-width: 20vw;
+}
+#link{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #0F2336;
+    background: #00CCCC;
+    border: 1px solid #00CCCC;
+    box-sizing: border-box;
+    border-radius: 14px;
+    padding: 12px 1%;
+    margin-left: 1%;
+    min-width: 10vw;
+}
+#appGoogle{
+
+}
+#app{
+    margin: 2px;     
+}
+#google{
+    
+}
+#house{
+    margin-top: 150px;
+}
+footer{
+    background: #0F2336;
+    margin-top: 100px;
+    min-height: 400px;
+}
+#company{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    color: #00CCCC;
+    
+}
+#portal{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.39px;
+    color: rgba(255, 255, 255, 0.7);
+    
+}
+#kokBarg{
+    position: absolute;
+    top: 3900px;
+}
+#sariqBarg{
+    position: absolute;
+    top: 4010px;
+    left: 91.5%;
+}
+@media(max-width:1850px){
+    #kokBarg{
+        display: none;
+    }
+    #sariqBarg{
+        display: none;
+    }
+}
